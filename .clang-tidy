@@ -8,6 +8,8 @@ Checks: >
   performance-*,
   readability-*,
   -misc-use-internal-linkage,
+  -misc-include-cleaner,
+  -bugprone-exception-escape,
   -readability-braces-around-statements,
   -google-readability-braces-around-statements,
   -google-readability-namespace-comments,
